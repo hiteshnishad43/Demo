@@ -1,0 +1,5 @@
+DOM Maniplu... : input element- value attribute.
+                 non-input ele - textContent.
+                 or we can use innerHTML(). 
+To select a html attr: we either use getElementById or class 
+but we can also use querySelector which is a CSS selector to select Id's.
